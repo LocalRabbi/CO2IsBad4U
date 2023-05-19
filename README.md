@@ -10,7 +10,7 @@ CO2 causes a lot of mental problems, dont do it.
 3. Click the Board manager button on the nav bar in the IDE.
 4. Install the ESP32 Package.
 5. Click the Library manager button on the nav bar in the IDE.
-6. Install the **SensirionI2CScd4x**, **ESP8266WiFi**, **ESP8266HTTPClient**, and the **WiFiClientSecure** packages.
+6. Install the **SensirionI2CScd4x**, **Adafruit_SGP30**, **ESP8266WiFi**, **ESP8266HTTPClient**, and the **WiFiClientSecure** packages.
 7. Make sure you have the USB-SERIAL CH340 Drivers https://learn.sparkfun.com/tutorials/how-to-install-ch340-drivers/all
 8. Runload the code.
 
