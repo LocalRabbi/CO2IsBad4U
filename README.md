@@ -18,5 +18,12 @@ CO2 causes a lot of mental problems, dont do it.
 
 Thb you will probably need to change the code to interact with whatever website or local server you have set up. As well as changing the API insert to interact with whatever API you have set up. This section completely dependent on the kind of backend you have or what front end you decide to present.
 
+## ESP8266 PINOUT
 
+![image](https://github.com/LocalRabbi/CO2IsBad4U/assets/60053840/00b40db7-ffe8-4b52-93aa-6bb47c67e970)
+
+## SCD VOLTAGE CURVE (LOW-HIGH)
+
+![image](https://github.com/LocalRabbi/CO2IsBad4U/assets/60053840/82e947a7-aacf-440e-add0-ce3d79a2984a)
+SGP voltage is linear, don't worry abt it.
 
